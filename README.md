@@ -15,16 +15,5 @@ You can view the site here: https://gilson96.github.io/drumKit/
 - GitHub Pages,
 
 ## Screenshot
-![Wireframe](https://github.com/Gilson96/drumKit/blob/master/src/assets/drumkit.png
-
-
-
-
-
-
-
-
-
-
-)
+![Wireframe](https://github.com/Gilson96/drumKit/blob/master/src/assets/drumkit.png)
 
